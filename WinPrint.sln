@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinPrint", "WinPrint\WinPrint.csproj", "{B57ACFEC-2347-43D8-B84A-154EA6FE9E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57ACFEC-2347-43D8-B84A-154EA6FE9E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57ACFEC-2347-43D8-B84A-154EA6FE9E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57ACFEC-2347-43D8-B84A-154EA6FE9E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57ACFEC-2347-43D8-B84A-154EA6FE9E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3146D10F-E63F-427B-A2FA-7CD0E0F8DFC4}
+	EndGlobalSection
+EndGlobal
